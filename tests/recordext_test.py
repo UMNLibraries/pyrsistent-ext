@@ -8,7 +8,7 @@ from pyrsistent import (
     PTypeError, pset_field, pvector_field, pmap_field, pmap, PMap,
     pvector, PVector, v, m)
 
-from pyrsistent_ext._precordext import PRecordExt as PRecord
+from pyrsistent_ext import PRecordExt as PRecord
 
 class ARecord(PRecord):
     x = field(type=(int, float))
@@ -568,7 +568,7 @@ def test_pset_field_name_string_type():
     The created set class name is based on the type of items specified by name
     """
     class Record(PRecord):
-        value = pset_field("tests.precordext_test.Something")
+        value = pset_field("tests.recordext_test.Something")
     assert Record().value.__class__.__name__ == "SomethingPSet"
 
 
@@ -578,7 +578,7 @@ def test_pset_multiple_string_types_field_name():
     items in the set specified by name
     """
     class Record(PRecord):
-        value = pset_field(("tests.precordext_test.Something", "tests.precordext_test.Another"))
+        value = pset_field(("tests.recordext_test.Something", "tests.recordext_test.Another"))
 
     assert Record().value.__class__.__name__ == "SomethingAnotherPSet"
 
@@ -705,7 +705,7 @@ def test_pvector_field_name_string_type():
     specified by name.
     """
     class Record(PRecord):
-        value = pvector_field("tests.precordext_test.Something")
+        value = pvector_field("tests.recordext_test.Something")
     assert Record().value.__class__.__name__ == "SomethingPVector"
 
 def test_pvector_multiple_string_types_field_name():
@@ -714,7 +714,7 @@ def test_pvector_multiple_string_types_field_name():
     items in the vector.
     """
     class Record(PRecord):
-        value = pvector_field(("tests.precordext_test.Something", "tests.precordext_test.Another"))
+        value = pvector_field(("tests.recordext_test.Something", "tests.recordext_test.Another"))
 
     assert Record().value.__class__.__name__ == "SomethingAnotherPVector"
 
@@ -856,7 +856,7 @@ def test_pmap_field_name_string_type():
     specified by name.
     """
     class Record(PRecord):
-        value = pmap_field("tests.precordext_test.Something", "tests.precordext_test.Another")
+        value = pmap_field("tests.recordext_test.Something", "tests.recordext_test.Another")
     assert Record().value.__class__.__name__ == "SomethingToAnotherPMap"
 
 def test_pmap_field_name_multiple_string_types():
@@ -865,8 +865,8 @@ def test_pmap_field_name_multiple_string_types():
     including when there are multiple supported types.
     """
     class Record(PRecord):
-        value = pmap_field(("tests.precordext_test.Something", "tests.precordext_test.Another"), int)
-        value2 = pmap_field(str, ("tests.precordext_test.Something", "tests.precordext_test.Another"))
+        value = pmap_field(("tests.recordext_test.Something", "tests.recordext_test.Another"), int)
+        value2 = pmap_field(str, ("tests.recordext_test.Something", "tests.recordext_test.Another"))
     assert ((Record().value.__class__.__name__,
              Record().value2.__class__.__name__) ==
             ("SomethingAnotherToIntPMap", "StrToSomethingAnotherPMap"))
