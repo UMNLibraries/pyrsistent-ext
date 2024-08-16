@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pyrsistent = {git = "https://github.com/tobgu/pyrsistent.git", develop = true}
+pyrsistent = "^0.20.0"
 
 
 [tool.poetry.group.test.dependencies]
