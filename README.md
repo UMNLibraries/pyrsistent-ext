@@ -1,2 +1,2 @@
 # pyrsistent-ext
-Extensions to the pyrsistent packages
+Extensions to [pyrsistent](https://github.com/tobgu/pyrsistent).

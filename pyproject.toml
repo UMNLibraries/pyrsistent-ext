@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "pyrsistent-ext"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Extensions to pyrsistent"
+authors = ["David Naughton <nihiliad@gmail.com>", "Karl Kaess <kaes0001@umn.edu>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
