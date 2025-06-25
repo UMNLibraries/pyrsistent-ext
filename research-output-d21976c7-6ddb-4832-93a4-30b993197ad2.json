@@ -1,0 +1,731 @@
+{
+  "pureId": 38214320,
+  "externalId": "84948120157",
+  "externalIdSource": "Scopus",
+  "uuid": "d21976c7-6ddb-4832-93a4-30b993197ad2",
+  "title": {
+    "formatted": true,
+    "value": "Blunt abdominal trauma"
+  },
+  "numberOfPages": 12,
+  "managingOrganisationalUnit": {
+    "uuid": "6fb41cb3-3e1c-428b-818b-a42d893373ae",
+    "link": {
+      "ref": "content",
+      "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/organisational-units/6fb41cb3-3e1c-428b-818b-a42d893373ae"
+    },
+    "externalId": "YNLFYZLQA",
+    "externalIdSource": "synchronisedUnifiedOrganisation",
+    "name": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Surgery"
+        }
+      ]
+    },
+    "type": {
+      "pureId": 855,
+      "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+      "term": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "Department"
+          }
+        ]
+      }
+    }
+  },
+  "confidential": false,
+  "info": {
+    "createdBy": "root",
+    "createdDate": "2015-12-28T21:17:26.150-0600",
+    "modifiedBy": "root",
+    "modifiedDate": "2022-01-09T23:58:59.584-0600",
+    "portalUrl": "http://minnesota-staging.pure.elsevier.com/en/publications/d21976c7-6ddb-4832-93a4-30b993197ad2",
+    "prettyURLIdentifiers": [
+      "blunt-abdominal-trauma"
+    ],
+    "additionalExternalIds": [
+      {
+        "value": "84948120157",
+        "idSource": "QABO"
+      }
+    ]
+  },
+  "totalScopusCitations": 1,
+  "publisher": {
+    "uuid": "76747326-4210-4bf7-a461-d879d3e71789",
+    "link": {
+      "ref": "content",
+      "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/publishers/76747326-4210-4bf7-a461-d879d3e71789"
+    },
+    "externalId": "N/A",
+    "externalIdSource": "Scopus",
+    "name": {
+      "formatted": false,
+      "text": [
+        {
+          "value": "Springer Verlag"
+        }
+      ]
+    },
+    "type": {
+      "pureId": 920,
+      "uri": "/dk/atira/pure/publisher/publishertypes/publisher/publisher",
+      "term": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "Publisher"
+          }
+        ]
+      }
+    }
+  },
+  "pages": "327-338",
+  "hostPublicationTitle": {
+    "formatted": true,
+    "value": "Imaging the ICU Patient"
+  },
+  "type": {
+    "pureId": 4599,
+    "uri": "/dk/atira/pure/researchoutput/researchoutputtypes/contributiontobookanthology/chapter",
+    "term": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Chapter"
+        }
+      ]
+    }
+  },
+  "category": {
+    "pureId": 6885,
+    "uri": "/dk/atira/pure/researchoutput/category/research",
+    "term": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Research"
+        }
+      ]
+    }
+  },
+  "language": {
+    "pureId": 4214728,
+    "uri": "/dk/atira/pure/core/languages/en_US",
+    "term": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "English (US)"
+        }
+      ]
+    }
+  },
+  "abstract": {
+    "formatted": true,
+    "text": [
+      {
+        "locale": "en_US",
+        "value": "<p>Trauma remains one of the major causes of morbidity and mortality worldwide. Over the past two decades, management of blunt abdominal trauma has shifted to non-operative management. Improvements in accuracy and efficacy of imaging modalities, such as advanced computerized tomography (CT) scan, have contributed to this paradigm shift in the management of solid and hollow-organ abdominal injuries. This chapter focuses on the imaging modalities used to guide management in blunt injuries to the liver, spleen, pancreas, hollow viscus injury to the stomach or intestine, and pelvic organs.</p>"
+      }
+    ]
+  },
+  "totalNumberOfAuthors": 3,
+  "openAccessPermission": {
+    "pureId": 3435859,
+    "uri": "/dk/atira/pure/researchoutput/openaccesspermission/indeterminate",
+    "term": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Indeterminate"
+        }
+      ]
+    }
+  },
+  "bibliographicalNote": {
+    "formatted": false,
+    "text": [
+      {
+        "locale": "en_US",
+        "value": "Publisher Copyright:\n© Springer-Verlag London 2014."
+      }
+    ]
+  },
+  "visibility": {
+    "key": "FREE",
+    "value": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Public - No restriction"
+        }
+      ]
+    }
+  },
+  "workflow": {
+    "workflowStep": "approved",
+    "value": {
+      "formatted": false,
+      "text": [
+        {
+          "locale": "en_US",
+          "value": "Validated"
+        }
+      ]
+    }
+  },
+  "publicationStatuses": [
+    {
+      "pureId": 38214320,
+      "externalId": "84948120157",
+      "externalIdSource": "Scopus",
+      "current": true,
+      "publicationDate": {
+        "year": 2014,
+        "month": 1,
+        "day": 1
+      },
+      "publicationStatus": {
+        "pureId": 798,
+        "uri": "/dk/atira/pure/researchoutput/status/published",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Published"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "personAssociations": [
+    {
+      "pureId": 136615379,
+      "externalPerson": {
+        "uuid": "11f7945d-896d-4838-a9ec-23b2b72d9c5a",
+        "link": {
+          "ref": "content",
+          "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-persons/11f7945d-896d-4838-a9ec-23b2b72d9c5a"
+        },
+        "name": {
+          "formatted": false,
+          "text": [
+            {
+              "value": "Javariah I. Asghar"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 4855,
+          "uri": "/dk/atira/pure/externalperson/externalpersontypes/externalperson/externalperson",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "External person"
+              }
+            ]
+          }
+        }
+      },
+      "name": {
+        "firstName": "Javariah I.",
+        "lastName": "Asghar"
+      },
+      "personRole": {
+        "pureId": 4904,
+        "uri": "/dk/atira/pure/researchoutput/roles/contributiontobookanthology/author",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Author"
+            }
+          ]
+        }
+      },
+      "externalOrganisations": [
+        {
+          "uuid": "5b61cc30-0bde-41c9-8592-30076fe54662",
+          "link": {
+            "ref": "content",
+            "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-organisations/5b61cc30-0bde-41c9-8592-30076fe54662"
+          },
+          "externalId": "508305",
+          "externalIdSource": "scival",
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "University of Minnesota Twin Cities"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 3438401,
+            "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Academic"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pureId": 136615380,
+      "externalPerson": {
+        "uuid": "f894af76-e258-46c2-bc52-2708c4cc39e2",
+        "link": {
+          "ref": "content",
+          "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-persons/f894af76-e258-46c2-bc52-2708c4cc39e2"
+        },
+        "name": {
+          "formatted": false,
+          "text": [
+            {
+              "value": "Matthew T. Heller"
+            }
+          ]
+        },
+        "type": {
+          "pureId": 4855,
+          "uri": "/dk/atira/pure/externalperson/externalpersontypes/externalperson/externalperson",
+          "term": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "External person"
+              }
+            ]
+          }
+        }
+      },
+      "name": {
+        "firstName": "Matthew T.",
+        "lastName": "Heller"
+      },
+      "personRole": {
+        "pureId": 4904,
+        "uri": "/dk/atira/pure/researchoutput/roles/contributiontobookanthology/author",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Author"
+            }
+          ]
+        }
+      },
+      "externalOrganisations": [
+        {
+          "uuid": "fbc47c24-0743-46cf-b6e2-b1bb8767a3dc",
+          "link": {
+            "ref": "content",
+            "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-organisations/fbc47c24-0743-46cf-b6e2-b1bb8767a3dc"
+          },
+          "externalId": "508332",
+          "externalIdSource": "scival",
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "University of Pittsburgh"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 3438401,
+            "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Academic"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pureId": 136615381,
+      "person": {
+        "uuid": "6f3a7774-2433-4fdf-b67f-1c91ab9d9975",
+        "link": {
+          "ref": "content",
+          "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/persons/6f3a7774-2433-4fdf-b67f-1c91ab9d9975"
+        },
+        "externalId": "347",
+        "externalIdSource": "synchronisedUnifiedPerson",
+        "externallyManaged": true,
+        "name": {
+          "formatted": false,
+          "text": [
+            {
+              "value": "Melissa E Brunsvold"
+            }
+          ]
+        }
+      },
+      "name": {
+        "firstName": "Melissa E",
+        "lastName": "Brunsvold"
+      },
+      "personRole": {
+        "pureId": 4904,
+        "uri": "/dk/atira/pure/researchoutput/roles/contributiontobookanthology/author",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Author"
+            }
+          ]
+        }
+      },
+      "organisationalUnits": [
+        {
+          "uuid": "6fb41cb3-3e1c-428b-818b-a42d893373ae",
+          "link": {
+            "ref": "content",
+            "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/organisational-units/6fb41cb3-3e1c-428b-818b-a42d893373ae"
+          },
+          "externalId": "YNLFYZLQA",
+          "externalIdSource": "synchronisedUnifiedOrganisation",
+          "name": {
+            "formatted": false,
+            "text": [
+              {
+                "locale": "en_US",
+                "value": "Surgery"
+              }
+            ]
+          },
+          "type": {
+            "pureId": 855,
+            "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Department"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "organisationalUnits": [
+    {
+      "uuid": "6fb41cb3-3e1c-428b-818b-a42d893373ae",
+      "link": {
+        "ref": "content",
+        "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/organisational-units/6fb41cb3-3e1c-428b-818b-a42d893373ae"
+      },
+      "externalId": "YNLFYZLQA",
+      "externalIdSource": "synchronisedUnifiedOrganisation",
+      "name": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "Surgery"
+          }
+        ]
+      },
+      "type": {
+        "pureId": 855,
+        "uri": "/dk/atira/pure/organisation/organisationtypes/organisation/department",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Department"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "externalOrganisations": [
+    {
+      "uuid": "5b61cc30-0bde-41c9-8592-30076fe54662",
+      "link": {
+        "ref": "content",
+        "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-organisations/5b61cc30-0bde-41c9-8592-30076fe54662"
+      },
+      "externalId": "508305",
+      "externalIdSource": "scival",
+      "name": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "University of Minnesota Twin Cities"
+          }
+        ]
+      },
+      "type": {
+        "pureId": 3438401,
+        "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Academic"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "uuid": "fbc47c24-0743-46cf-b6e2-b1bb8767a3dc",
+      "link": {
+        "ref": "content",
+        "href": "https://minnesota-staging.pure.elsevier.com/ws/api/524/external-organisations/fbc47c24-0743-46cf-b6e2-b1bb8767a3dc"
+      },
+      "externalId": "508332",
+      "externalIdSource": "scival",
+      "name": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "University of Pittsburgh"
+          }
+        ]
+      },
+      "type": {
+        "pureId": 3438401,
+        "uri": "/dk/atira/pure/ueoexternalorganisation/ueoexternalorganisationtypes/ueoexternalorganisation/academic",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Academic"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "electronicVersions": [
+    {
+      "pureId": 38214321,
+      "visibleOnPortalDate": "2015-12-28T12:00:00.000-0600",
+      "doi": "https://doi.org/10.1007/978-0-85729-781-5_35",
+      "accessType": {
+        "pureId": 84471524,
+        "uri": "/dk/atira/pure/core/openaccesspermission/unknown",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Unknown"
+            }
+          ]
+        }
+      },
+      "versionType": {
+        "pureId": 3435922,
+        "uri": "/dk/atira/pure/researchoutput/electronicversion/versiontype/publishersversion",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Final published version"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "additionalLinks": [
+    {
+      "pureId": 257397425,
+      "url": "http://www.scopus.com/inward/record.url?scp=84948120157&partnerID=8YFLogxK",
+      "description": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "Link to publication in Scopus"
+          }
+        ]
+      },
+      "linkType": {
+        "pureId": 3435910,
+        "uri": "/dk/atira/pure/links/researchoutput/scopuspublication",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Scopus publication"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "pureId": 257397426,
+      "url": "http://www.scopus.com/inward/citedby.url?scp=84948120157&partnerID=8YFLogxK",
+      "description": {
+        "formatted": false,
+        "text": [
+          {
+            "locale": "en_US",
+            "value": "Link to the citations in Scopus"
+          }
+        ]
+      },
+      "linkType": {
+        "pureId": 3435912,
+        "uri": "/dk/atira/pure/links/researchoutput/scopuscitations",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "Scopus citations"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "keywordGroups": [
+    {
+      "pureId": 38214322,
+      "logicalName": "ASJCSubjectAreas",
+      "type": {
+        "uri": "/dk/atira/pure/subjectarea/asjc",
+        "term": {
+          "formatted": false,
+          "text": [
+            {
+              "locale": "en_US",
+              "value": "ASJC Scopus subject areas"
+            }
+          ]
+        }
+      },
+      "keywordContainers": [
+        {
+          "pureId": 38214323,
+          "structuredKeyword": {
+            "pureId": 6223,
+            "uri": "/dk/atira/pure/subjectarea/asjc/2700",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Medicine(all)"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "pureId": 38214324,
+          "structuredKeyword": {
+            "pureId": 5796,
+            "uri": "/dk/atira/pure/subjectarea/asjc/1300",
+            "term": {
+              "formatted": false,
+              "text": [
+                {
+                  "locale": "en_US",
+                  "value": "Biochemistry, Genetics and Molecular Biology(all)"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "scopusMetrics": [
+    {
+      "value": 0,
+      "year": 2022
+    },
+    {
+      "value": 0,
+      "year": 2021
+    },
+    {
+      "value": 0,
+      "year": 2020
+    },
+    {
+      "value": 0,
+      "year": 2019
+    },
+    {
+      "value": 0,
+      "year": 2018
+    },
+    {
+      "value": 1,
+      "year": 2017
+    },
+    {
+      "value": 0,
+      "year": 2016
+    },
+    {
+      "value": 0,
+      "year": 2015
+    },
+    {
+      "value": 0,
+      "year": 2014
+    }
+  ],
+  "isbns": [
+    "9780857297808"
+  ],
+  "electronicIsbns": [
+    "9780857297815"
+  ]
+}
