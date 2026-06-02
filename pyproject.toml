@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 pyrsistent = "^0.20.0"
 python-dateutil = "^2.9.0.post0"
+pydantic = "^2.11.7"
 
 
 [tool.poetry.group.test.dependencies]
